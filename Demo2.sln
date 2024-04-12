@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyLibrary", "MyLibrary", "{D591D49C-1115-4AB1-AFF5-8C2BE3548E87}"
 	ProjectSection(SolutionItems) = preProject
 		Book.cs = Book.cs
+		Employee.cs = Employee.cs
 		Product.cs = Product.cs
 	EndProjectSection
 EndProject
